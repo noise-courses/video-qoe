@@ -36,5 +36,5 @@ graded; a mediocre F1 with a working pipeline is 10/10.
 
 ## Late policy
 
-Due 5:00 p.m. Chicago time on the due date; 96-hour grace balance for the term,
+Due 11:59 p.m. Chicago time on the due date; 96-hour grace balance for the term,
 then half credit within one week, then zero. See the syllabus.
