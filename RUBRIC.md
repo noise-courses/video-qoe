@@ -25,9 +25,10 @@ graded; a mediocre F1 with a working pipeline is 10/10.
 
 - **The notebook must run.** Submit it *executed* (outputs saved). A notebook
   with error tracebacks in its outputs, or with no outputs at all, is treated
-  as not running: the failing part(s) earn 0 until fixed and resubmitted.
-- **Sub-items are all-or-nothing.** Each row is 1 point if done in good faith,
-  0 if absent. There are no half points; "did the thing" is the bar.
+  as not running: the failing part(s) earn 0.5 until fixed and resubmitted.
+- **Partial credit.** Each row is 1 point if done in good faith, 0.5 if
+  attempted but incomplete or partly wrong, 0 only if absent. "Did the thing"
+  is the bar, and ties go to you.
 - **Written answers count.** Items 1.2 and 2.2 require a sentence or two of
   explanation, not just code.
 - **AI use.** Encouraged, but acknowledge it in the notebook and be ready to
